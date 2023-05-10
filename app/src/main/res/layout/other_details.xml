@@ -14,7 +14,7 @@
         android:paddingStart="24dp"
         android:paddingEnd="24dp"
         android:orientation="horizontal"
-        android:background="@color/green"
+        android:background="@color/dark_green"
         >
         <ImageView
             android:id="@+id/appbar_menu"

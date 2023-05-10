@@ -36,7 +36,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="MAWASCO"
+            android:text="Utility Manager"
             android:padding="10dp"
             android:textColor="@color/white"
             android:textStyle="bold"
@@ -87,7 +87,7 @@
 
                         android:gravity="center"
                         android:layout_marginBottom="10dp"
-                        android:text="Click to send a report to MAWASCO"
+                        android:text="Click to send a report to Oakar Services Ltd."
                         android:textColor="@color/translucent_black"
                         android:textSize="14sp" />
 

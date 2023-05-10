@@ -51,7 +51,7 @@
                 android:height="24dp"
                 android:layout_gravity="start"
                 android:text="Enter Search Item"
-                android:textColor="@color/green"
+                android:textColor="@color/dark_green"
                 android:textStyle="bold"
                 android:textSize="14sp" />
 

@@ -10,7 +10,7 @@
         android:id="@+id/appbar"
         android:layout_width="match_parent"
         android:layout_height="64dp"
-        android:background="@color/green"
+        android:background="@color/dark_green"
         android:gravity="center_vertical"
         android:orientation="horizontal"
         android:paddingStart="24dp"

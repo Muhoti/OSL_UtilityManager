@@ -31,7 +31,7 @@
             android:background="@drawable/border_bottom"
             android:text="Mapped Points"
             android:textAllCaps="false"
-            android:textColor="@color/green"
+            android:textColor="@color/dark_green"
             android:textSize="14sp" />
 
         <TextView
@@ -44,7 +44,7 @@
             android:background="@drawable/border_bottom"
             android:text="User Details"
             android:textAllCaps="false"
-            android:textColor="@color/green"
+            android:textColor="@color/dark_green"
             android:textSize="14sp" />
 
 
@@ -61,7 +61,7 @@
             android:background="@drawable/border_bottom"
             android:text="Change Password"
             android:textAllCaps="false"
-            android:textColor="@color/green"
+            android:textColor="@color/dark_green"
             android:textSize="14sp" />
 
     </LinearLayout>

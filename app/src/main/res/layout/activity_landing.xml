@@ -35,7 +35,7 @@
             android:gravity="center"
             android:layout_marginStart="24dp"
             android:layout_marginTop="30dp"
-            android:text="Mathira Water \n &amp; \n Sanitation Company"
+            android:text="Oakar Services Ltd. \n\n Utility Manager"
             android:textColor="@color/greenblue"
             android:textSize="24sp"
             android:textStyle="bold" />
