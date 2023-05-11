@@ -43,7 +43,7 @@ class PointHome : AppCompatActivity() {
     lateinit var preferences: SharedPreferences
     lateinit var editor: SharedPreferences.Editor
 
-    val ip_URL = "http://102.222.147.190/api/homepage/"
+    val ip_URL = "http://185.215.180.181:9034/api/homepage/"
 
     object AndroidJSInterface {
         @JavascriptInterface

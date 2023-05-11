@@ -11,7 +11,7 @@ interface ApiInterface {
 
         companion object {
 
-           var BASE_URL = "http://192.168.1.136:3003/"
+           var BASE_URL = "http://185.215.180.181:9034/"
 
                 fun create() : ApiInterface {
                 val retrofit = Retrofit.Builder()
